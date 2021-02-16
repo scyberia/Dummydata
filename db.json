@@ -4,379 +4,190 @@
             "Brand": "Nike",
             "Cat": "Shoes",
             "product": "Snikkers",
-            "MRP": "664",
-            "Units": "mtr"
-        },
-        {
-            "Brand": "Nike",
-            "Cat": "Shoes",
-            "product": "Sandals",
-            "MRP": "361",
-            "Units": "kg"
-        },
-        {
-            "Brand": "Nike",
-            "Cat": "Shoes",
-            "product": "Boots",
-            "MRP": "662",
-            "Units": "pc"
-        },
-        {
-            "Brand": "Nike",
-            "Cat": "Shirts",
-            "product": "T-shirts",
-            "MRP": "622",
-            "Units": "pc"
-        },
-        {
-            "Brand": "Nike",
-            "Cat": "Shirts",
-            "product": "jackets",
-            "MRP": "385",
-            "Units": "pc"
-        },
-        {
-            "Brand": "Nike",
-            "Cat": "Shirts",
-            "product": "sweatshirts",
-            "MRP": "846",
-            "Units": "kg"
-        },
-        {
-            "Brand": "Nike",
-            "Cat": "Trousers",
-            "product": "jeans",
-            "MRP": "845",
-            "Units": "pc"
-        },
-        {
-            "Brand": "Nike",
-            "Cat": "Trousers",
-            "product": "cargos",
-            "MRP": "508",
-            "Units": "mtr"
-        },
-        {
-            "Brand": "Nike",
-            "Cat": "Trousers",
-            "product": "three-quarters",
-            "MRP": "980",
-            "Units": "mtr"
-        },
-        {
-            "Brand": "Reebok",
-            "Cat": "Shoes",
-            "product": "Snikkers",
-            "MRP": "230",
-            "Units": "kg"
-        },
-        {
-            "Brand": "Reebok",
-            "Cat": "Shoes",
-            "product": "Sandals",
-            "MRP": "140",
-            "Units": "kg"
-        },
-        {
-            "Brand": "Reebok",
-            "Cat": "Shoes",
-            "product": "Boots",
-            "MRP": "469",
-            "Units": "kg"
-        },
-        {
-            "Brand": "Reebok",
-            "Cat": "Shirts",
-            "product": "T-shirts",
-            "MRP": "583",
-            "Units": "mtr"
-        },
-        {
-            "Brand": "Reebok",
-            "Cat": "Shirts",
-            "product": "jackets",
-            "MRP": "828",
-            "Units": "mtr"
-        },
-        {
-            "Brand": "Reebok",
-            "Cat": "Shirts",
-            "product": "sweatshirts",
-            "MRP": "655",
-            "Units": "mtr"
-        },
-        {
-            "Brand": "Reebok",
-            "Cat": "Trousers",
-            "product": "jeans",
-            "MRP": "115",
-            "Units": "mtr"
-        },
-        {
-            "Brand": "Reebok",
-            "Cat": "Trousers",
-            "product": "cargos",
-            "MRP": "732",
-            "Units": "mtr"
-        },
-        {
-            "Brand": "Reebok",
-            "Cat": "Trousers",
-            "product": "three-quarters",
-            "MRP": "526",
-            "Units": "pc"
-        },
-        {
-            "Brand": "Adidas",
-            "Cat": "Shoes",
-            "product": "Snikkers",
-            "MRP": "406",
-            "Units": "mtr"
-        },
-        {
-            "Brand": "Adidas",
-            "Cat": "Shoes",
-            "product": "Snikkers",
-            "MRP": "691",
-            "Units": "mtr"
-        },
-        {
-            "Brand": "Adidas",
-            "Cat": "Shoes",
-            "product": "Snikkers",
-            "MRP": "793",
-            "Units": "pc"
-        },
-        {
-            "Brand": "Adidas",
-            "Cat": "Shoes",
-            "product": "Snikkers",
-            "MRP": "685",
-            "Units": "kg"
-        },
-        {
-            "Brand": "Adidas",
-            "Cat": "Shoes",
-            "product": "Snikkers",
-            "MRP": "459",
-            "Units": "mtr"
-        },
-        {
-            "Brand": "Adidas",
-            "Cat": "Shoes",
-            "product": "Snikkers",
-            "MRP": "489",
-            "Units": "pc"
-        },
-        {
-            "Brand": "Adidas",
-            "Cat": "Shoes",
-            "product": "Snikkers",
-            "MRP": "438",
-            "Units": "mtr"
-        },
-        {
-            "Brand": "Adidas",
-            "Cat": "Shoes",
-            "product": "Snikkers",
-            "MRP": "667",
-            "Units": "mtr"
-        },
-        {
-            "Brand": "Adidas",
-            "Cat": "Shoes",
-            "product": "Snikkers",
-            "MRP": "283",
-            "Units": "mtr"
-        },
-        {
-            "Brand": "Nike",
-            "Cat": "Shoes",
-            "product": "Snikkers",
-            "MRP": "598",
+            "MRP": "125",
             "Units": "pc"
         },
         {
             "Brand": "Nike",
             "Cat": "Shoes",
             "product": "Sandals",
-            "MRP": "741",
-            "Units": "kg"
+            "MRP": "424",
+            "Units": "pc"
         },
         {
             "Brand": "Nike",
             "Cat": "Shoes",
             "product": "Boots",
-            "MRP": "580",
-            "Units": "pc"
+            "MRP": "351",
+            "Units": "kg"
         },
         {
             "Brand": "Nike",
             "Cat": "Shirts",
             "product": "T-shirts",
-            "MRP": "681",
+            "MRP": "268",
             "Units": "pc"
         },
         {
             "Brand": "Nike",
             "Cat": "Shirts",
             "product": "jackets",
-            "MRP": "183",
-            "Units": "kg"
+            "MRP": "764",
+            "Units": "pc"
         },
         {
             "Brand": "Nike",
             "Cat": "Shirts",
             "product": "sweatshirts",
-            "MRP": "847",
+            "MRP": "310",
             "Units": "mtr"
         },
         {
             "Brand": "Nike",
             "Cat": "Trousers",
             "product": "jeans",
-            "MRP": "895",
+            "MRP": "103",
             "Units": "kg"
         },
         {
             "Brand": "Nike",
             "Cat": "Trousers",
             "product": "cargos",
-            "MRP": "402",
-            "Units": "pc"
+            "MRP": "595",
+            "Units": "kg"
         },
         {
             "Brand": "Nike",
             "Cat": "Trousers",
-            "product": "three-quarters",
-            "MRP": "996",
+            "product": "three-qtr",
+            "MRP": "719",
             "Units": "kg"
         },
         {
             "Brand": "Reebok",
             "Cat": "Shoes",
             "product": "Snikkers",
-            "MRP": "935",
-            "Units": "kg"
+            "MRP": "947",
+            "Units": "pc"
         },
         {
             "Brand": "Reebok",
             "Cat": "Shoes",
             "product": "Sandals",
-            "MRP": "931",
-            "Units": "mtr"
+            "MRP": "412",
+            "Units": "pc"
         },
         {
             "Brand": "Reebok",
             "Cat": "Shoes",
             "product": "Boots",
-            "MRP": "460",
-            "Units": "pc"
-        },
-        {
-            "Brand": "Reebok",
-            "Cat": "Shirts",
-            "product": "T-shirts",
-            "MRP": "638",
+            "MRP": "429",
             "Units": "kg"
         },
         {
             "Brand": "Reebok",
             "Cat": "Shirts",
+            "product": "T-shirts",
+            "MRP": "415",
+            "Units": "pc"
+        },
+        {
+            "Brand": "Reebok",
+            "Cat": "Shirts",
             "product": "jackets",
-            "MRP": "814",
+            "MRP": "252",
             "Units": "kg"
         },
         {
             "Brand": "Reebok",
             "Cat": "Shirts",
             "product": "sweatshirts",
-            "MRP": "189",
+            "MRP": "153",
             "Units": "kg"
         },
         {
             "Brand": "Reebok",
             "Cat": "Trousers",
             "product": "jeans",
-            "MRP": "374",
-            "Units": "mtr"
+            "MRP": "969",
+            "Units": "kg"
         },
         {
             "Brand": "Reebok",
             "Cat": "Trousers",
             "product": "cargos",
-            "MRP": "246",
+            "MRP": "938",
             "Units": "mtr"
         },
         {
             "Brand": "Reebok",
             "Cat": "Trousers",
-            "product": "three-quarters",
-            "MRP": "513",
-            "Units": "kg"
-        },
-        {
-            "Brand": "Adidas",
-            "Cat": "Shoes",
-            "product": "Snikkers",
-            "MRP": "464",
+            "product": "three-qtr",
+            "MRP": "507",
             "Units": "mtr"
         },
         {
             "Brand": "Adidas",
             "Cat": "Shoes",
             "product": "Snikkers",
-            "MRP": "678",
-            "Units": "kg"
-        },
-        {
-            "Brand": "Adidas",
-            "Cat": "Shoes",
-            "product": "Snikkers",
-            "MRP": "534",
-            "Units": "kg"
-        },
-        {
-            "Brand": "Adidas",
-            "Cat": "Shoes",
-            "product": "Snikkers",
-            "MRP": "923",
-            "Units": "mtr"
-        },
-        {
-            "Brand": "Adidas",
-            "Cat": "Shoes",
-            "product": "Snikkers",
-            "MRP": "700",
-            "Units": "mtr"
-        },
-        {
-            "Brand": "Adidas",
-            "Cat": "Shoes",
-            "product": "Snikkers",
-            "MRP": "276",
-            "Units": "mtr"
-        },
-        {
-            "Brand": "Adidas",
-            "Cat": "Shoes",
-            "product": "Snikkers",
-            "MRP": "245",
-            "Units": "mtr"
-        },
-        {
-            "Brand": "Adidas",
-            "Cat": "Shoes",
-            "product": "Snikkers",
-            "MRP": "697",
-            "Units": "mtr"
-        },
-        {
-            "Brand": "Adidas",
-            "Cat": "Shoes",
-            "product": "Snikkers",
-            "MRP": "319",
+            "MRP": "977",
             "Units": "pc"
+        },
+        {
+            "Brand": "Adidas",
+            "Cat": "Shoes",
+            "product": "Sandals",
+            "MRP": "631",
+            "Units": "pc"
+        },
+        {
+            "Brand": "Adidas",
+            "Cat": "Shoes",
+            "product": "Boots",
+            "MRP": "677",
+            "Units": "mtr"
+        },
+        {
+            "Brand": "Adidas",
+            "Cat": "Shirts",
+            "product": "T-shirts",
+            "MRP": "503",
+            "Units": "mtr"
+        },
+        {
+            "Brand": "Adidas",
+            "Cat": "Shirts",
+            "product": "jackets",
+            "MRP": "754",
+            "Units": "pc"
+        },
+        {
+            "Brand": "Adidas",
+            "Cat": "Shirts",
+            "product": "sweatshirts",
+            "MRP": "808",
+            "Units": "pc"
+        },
+        {
+            "Brand": "Adidas",
+            "Cat": "Trousers",
+            "product": "jeans",
+            "MRP": "546",
+            "Units": "kg"
+        },
+        {
+            "Brand": "Adidas",
+            "Cat": "Trousers",
+            "product": "cargos",
+            "MRP": "722",
+            "Units": "kg"
+        },
+        {
+            "Brand": "Adidas",
+            "Cat": "Trousers",
+            "product": "three-qtr",
+            "MRP": "299",
+            "Units": "kg"
         }
     ]
 }
